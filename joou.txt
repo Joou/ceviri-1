@@ -608,7 +608,7 @@ msgstr "Aptal Bumerang!"
 
 #: STRINGS.CHARACTERS.WILLOW.BATTLECRY.GENERIC
 msgid "It's you or me!"
-msgstr "It's you or me!"
+msgstr "Sen veya ben!"
 
 #: STRINGS.CHARACTERS.WILLOW.BATTLECRY.PREY
 msgid "Get over here!"
@@ -620,7 +620,7 @@ msgstr "Aptal Domuz!"
 
 #: STRINGS.CHARACTERS.WILLOW.BATTLECRY.SPIDER_WARRIOR
 msgid "Ew, kill iiiit!"
-msgstr "Ew, kill iiiit!"
+msgstr "Iyyy, gebert sunu!"
 
 #: STRINGS.CHARACTERS.WILLOW.BATTLECRY.SPIDER
 msgid "Grrrrar!"
@@ -636,15 +636,15 @@ msgstr "Yum!"
 
 #: STRINGS.CHARACTERS.WILLOW.ANNOUNCE_EAT.STALE
 msgid "That was kinda gross."
-msgstr "That was kinda gross."
+msgstr "Çimen gibi."
 
 #: STRINGS.CHARACTERS.WILLOW.ANNOUNCE_EAT.PAINFUL
 msgid "Ugh! Nasty!"
-msgstr "Ugh! Nasty!"
+msgstr "Ugh! Pis!"
 
 #: STRINGS.CHARACTERS.WILLOW.ANNOUNCE_EAT.SPOILED
 msgid "That tasted terrible!"
-msgstr "That tasted terrible!"
+msgstr "Tadı igrenç!"
 
 #: STRINGS.CHARACTERS.WILLOW.ANNOUNCE_CHARLIE
 msgid "I'm not afraid of you!"
